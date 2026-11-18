@@ -1,0 +1,697 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 7 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 8 0
+2 0 obj
+<<
+  /Author (Shubham Neman)
+  /CreationDate (D:20261014130114+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20261014130114+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (Shubham Neman - Resume)
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 9 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 6 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 10 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 782.5433 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3 Tm /F2 22 Tf 25 TL 152.3588 0 Td (SHUBHAM NEMAN) Tj T* -152.3588 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 769.5153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F2 10.7 Tf 13.028 TL 195.7843 0 Td (Mobile App Developer) Tj T* -195.7843 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 757.4873 cm
+q
+BT 1 0 0 1 0 2.328 Tm 109.8526 0 Td 12.028 TL /F1 9.7 Tf 0 0 0 rg (Mumbai, India  ) Tj (|) Tj (  +91 8793883927  ) Tj (|) Tj (  shubhamneman@gmail.com) Tj T* -109.8526 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 739.9593 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 2.828 Tm /F2 11.2 Tf 14.028 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 738.4593 cm
+q
+1 w
+1 J
+.121569 .219608 .392157 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 688.3473 cm
+q
+BT 1 0 0 1 0 38.412 Tm 0.681787 Tw 12.028 TL /F1 9.7 Tf 0 0 0 rg (Mobile App Developer with ) Tj /F2 9.7 Tf (3.9 years) Tj /F1 9.7 Tf ( of experience building scalable cross-platform mobile applications for Android) Tj T* 0 Tw 2.894347 Tw (and iOS. Skilled in ) Tj /F2 9.7 Tf (React Native, Redux, REST API integration, Firebase) Tj /F1 9.7 Tf ( and ) Tj /F2 9.7 Tf (performance optimization) Tj /F1 9.7 Tf (.) Tj T* 0 Tw 4.104001 Tw (Experienced in enterprise mobility solutions, ERP-integrated apps \() Tj /F2 9.7 Tf (OAuth2) Tj /F1 9.7 Tf (\), mobile app architecture, state) Tj T* 0 Tw (management, debugging and migrating legacy applications to modern React Native.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 670.8193 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 2.828 Tm /F2 11.2 Tf 14.028 TL (SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 669.3193 cm
+q
+1 w
+1 J
+.121569 .219608 .392157 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 643.2633 cm
+q
+BT 1 0 0 1 0 14.356 Tm 12.028 TL /F2 9.7 Tf 0 0 0 rg (Mobile & Frontend:) Tj /F1 9.7 Tf ( React Native, React Native CLI, React, React Navigation, Redux, React Hooks, ReactJS,) Tj T* (Node.js) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 631.2353 cm
+q
+BT 1 0 0 1 0 2.328 Tm 12.028 TL /F2 9.7 Tf 0 0 0 rg (Languages:) Tj /F1 9.7 Tf ( JavaScript, TypeScript, SQL, HTML, CSS, C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 607.1793 cm
+q
+BT 1 0 0 1 0 14.356 Tm 12.028 TL /F2 9.7 Tf 0 0 0 rg (API & Integration:) Tj /F1 9.7 Tf ( REST APIs, Axios, JSON, OAuth2 Authentication, Push Notifications, Razorpay Payment) Tj T* (Gateway) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 583.1233 cm
+q
+BT 1 0 0 1 0 14.356 Tm 12.028 TL /F2 9.7 Tf 0 0 0 rg (Tools & Platforms:) Tj /F1 9.7 Tf ( Android Studio, Xcode, VS Code, Postman, Firebase \(Analytics, Crashlytics\), Git, GitHub, Azure) Tj T* (TFS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 571.0953 cm
+q
+BT 1 0 0 1 0 2.328 Tm 12.028 TL /F2 9.7 Tf 0 0 0 rg (Methodologies:) Tj /F1 9.7 Tf ( Agile, Waterfall, Performance Optimization, Debugging, Testing & Deployment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 553.5673 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 2.828 Tm /F2 11.2 Tf 14.028 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 552.0673 cm
+q
+1 w
+1 J
+.121569 .219608 .392157 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 39.68504 535.0393 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.528 Tm /F2 10.5 Tf 13.028 TL (Godrej Infotech Ltd \227 Assistant Manager \(Mobile App Developer\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 371.452 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm /F1 9.7 Tf 13.028 TL 65.18514 0 Td (02/2025 \226 Present) Tj T* -65.18514 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 523.0113 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 523.0113 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm 0 Tw 12.028 TL /F1 9.7 Tf 0 0 0 rg (Implemented ) Tj /F2 9.7 Tf (OAuth2) Tj /F1 9.7 Tf ( authentication for secure integration with ) Tj /F2 9.7 Tf (Infor ERP) Tj /F1 9.7 Tf ( and multi-environment support.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 498.9553 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 15.356 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 498.9553 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.356 Tm /F1 9.7 Tf 12.028 TL .371724 Tw (Integrated a WebView-based payment gateway enabling secure in-app payments and payment history tracking for) Tj T* 0 Tw (dealers and customers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 486.9273 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 486.9273 cm
+q
+BT 1 0 0 1 0 2.328 Tm 12.028 TL /F1 9.7 Tf 0 0 0 rg (Improved application load time by ) Tj /F2 9.7 Tf (20\22630%) Tj /F1 9.7 Tf ( through performance optimization and efficient UI rendering.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 474.8993 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 474.8993 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F1 9.7 Tf 12.028 TL (Reduced crash frequency using React Hooks, Redux, Firebase Crashlytics and performance-monitoring tools.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 462.8713 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 462.8713 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F1 9.7 Tf 12.028 TL (Collaborated with design, backend and QA teams to deliver features ahead of schedule.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.68504 447.8433 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.528 Tm /F2 10.5 Tf 13.028 TL (Godrej Infotech Ltd \227 Senior Executive \(Mobile App Developer\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 371.452 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm /F1 9.7 Tf 13.028 TL 63.55554 0 Td (01/2023 \226 01/2025) Tj T* -63.55554 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 423.7873 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 15.356 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 423.7873 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.356 Tm /F1 9.7 Tf 12.028 TL .808694 Tw (Built and maintained multiple enterprise React Native applications for Android and iOS, optimized navigation flow) Tj T* 0 Tw (with React Navigation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 399.7313 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 15.356 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 399.7313 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.356 Tm /F1 9.7 Tf 12.028 TL 2.570639 Tw (Integrated REST APIs and caching mechanisms and improved data-fetching logic, resulting in faster screen) Tj T* 0 Tw (transitions and reduced API load.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 387.7033 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 387.7033 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F1 9.7 Tf 12.028 TL (Worked in an Agile environment, contributing to testing, deployment and documentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 370.1753 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 2.828 Tm /F2 11.2 Tf 14.028 TL (PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 368.6753 cm
+q
+1 w
+1 J
+.121569 .219608 .392157 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 39.68504 352.6473 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F3 9.7 Tf 12.028 TL (GodrejGoTuff \227 B2B Construction Materials App) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.748 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.828 Tm /F4 9.2 Tf 12.028 TL 53.53028 0 Td (React Native | Firebase | Payment Gateway) Tj T* -53.53028 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 328.5913 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 15.356 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 328.5913 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.356 Tm /F1 9.7 Tf 12.028 TL 1.435107 Tw (Built a cross-platform B2B app for Godrej's Ready Mix Concrete and Pavers business to manage orders, track) Tj T* 0 Tw (deliveries, view payment history and handle enquiries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 292.5073 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 27.384 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 292.5073 cm
+q
+BT 1 0 0 1 0 26.384 Tm .631459 Tw 12.028 TL /F1 9.7 Tf 0 0 0 rg (Implemented React Navigation \(Stack, Tab, Drawer\), Firebase Analytics & Crashlytics, AsyncStorage and NetInfo) Tj T* 0 Tw 4.72777 Tw (for offline handling, integrated React Native Maps for live order tracking, WebView payments, i18next) Tj T* 0 Tw (multi-language, file downloads, image uploads and video playback.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.68504 278.4793 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F3 9.7 Tf 12.028 TL (Prostream \227 Project Management App) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.748 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.828 Tm /F4 9.2 Tf 12.028 TL 130.0651 0 Td (React Native | REST API) Tj T* -130.0651 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 254.4233 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 15.356 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 254.4233 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.356 Tm /F1 9.7 Tf 12.028 TL .000121 Tw (Developed charts, portfolio views and task update features with real-time updates, improving data visibility and user) Tj T* 0 Tw (accuracy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 242.3953 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 242.3953 cm
+q
+BT 1 0 0 1 0 2.328 Tm 12.028 TL /F1 9.7 Tf 0 0 0 rg (Integrated ) Tj /F2 9.7 Tf (Azure AD B2B and B2C) Tj /F1 9.7 Tf ( authentication to enhance secure user authentication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.68504 228.3673 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F3 9.7 Tf 12.028 TL (SalesAssist \227 Sales Operations App) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.748 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.828 Tm /F4 9.2 Tf 12.028 TL 91.36068 0 Td (React Native | OAuth2 | REST API) Tj T* -91.36068 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 204.3113 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 15.356 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 204.3113 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.356 Tm /F1 9.7 Tf 12.028 TL -0.032988 Tw (Developed a cross-platform sales app integrated with Infor ERP via OAuth2, deployed on Android and iOS for sales) Tj T* 0 Tw (teams and dealers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 180.2553 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 15.356 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 180.2553 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.356 Tm /F1 9.7 Tf 12.028 TL .540926 Tw (Built order creation, amendment, cancellation and multi-level approval workflows, shipment status monitoring, free) Tj T* 0 Tw (stock queries, quotation and dealer scheme management, OTP-based warranty validation and push notifications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.68504 166.2273 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F3 9.7 Tf 12.028 TL (MyConnect \227 Internal Employee App) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.748 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.828 Tm /F4 9.2 Tf 12.028 TL 101.9407 0 Td (React Native | React Navigation) Tj T* -101.9407 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 142.1713 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 15.356 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 142.1713 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.356 Tm /F1 9.7 Tf 12.028 TL 2.801481 Tw (Built attendance, payroll, leave and appointment modules with a clean UI, increased daily active usage by) Tj T* 0 Tw (improving UX and reducing navigation time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 124.6433 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 2.828 Tm /F2 11.2 Tf 14.028 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 123.1433 cm
+q
+1 w
+1 J
+.121569 .219608 .392157 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 39.68504 106.1153 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F2 9.7 Tf 12.028 TL (Bachelor of Engineering \226 Computer Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 386.9291 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm /F1 9.7 Tf 13.028 TL 75.04438 0 Td (2018 \226 2022) Tj T* -75.04438 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 94.0873 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F1 9.7 Tf 12.028 TL (St. John College of Engineering and Management | CGPA: 8.62) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 76.5593 cm
+q
+BT 1 0 0 1 0 2.828 Tm 14.028 TL /F2 11.2 Tf .121569 .219608 .392157 rg (ACHIEVEMENTS & ACTIVITIES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 75.0593 cm
+q
+1 w
+1 J
+.121569 .219608 .392157 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 61.0313 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 61.0313 cm
+q
+BT 1 0 0 1 0 2.328 Tm 12.028 TL /F1 9.7 Tf 0 0 0 rg (Awarded ) Tj /F2 9.7 Tf ("Best Team Project") Tj /F1 9.7 Tf ( at Godrej Infotech Ltd for contributions to the Prostream project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 49.0033 cm
+BT /F1 8.7 Tf 10.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3.328 Tm <7f> Tj T* ET
+Q
+q
+1 0 0 1 54.68504 49.0033 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.328 Tm /F1 9.7 Tf 12.028 TL (Completed a 2-month internship as a Junior Web Developer \(2021\).) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+12546
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+  /F3 10 0 R
+  /F4 11 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 4 0
+10 0 obj
+<<
+  /BaseFont /Helvetica-BoldOblique
+  /Encoding /WinAnsiEncoding
+  /Name /F3
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 5 0
+11 0 obj
+<<
+  /BaseFont /Helvetica-Oblique
+  /Encoding /WinAnsiEncoding
+  /Name /F4
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 12
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000486 00000 n 
+0000000595 00000 n 
+0000000924 00000 n 
+0000013525 00000 n 
+0000013574 00000 n 
+0000013673 00000 n 
+0000013818 00000 n 
+0000013968 00000 n 
+0000014126 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 12
+  /ID [<e1ad47808c3380944e6e700e0c261877><5f3d2d066f59ae0cc4aade524210a039>]
+>>
+startxref
+14253
+%%EOF
